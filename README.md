@@ -1,6 +1,6 @@
 # single Page CV 
 My Single Page CV project
 ## Live Demo
-https://github.com/bairwaamit55-arch/single-page-cv.html
+https://github.com/bairwaamit55-arch/single-page-cv
 ## Technologies Used
 -HTML
